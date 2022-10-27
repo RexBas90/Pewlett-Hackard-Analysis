@@ -10,7 +10,7 @@ Provide a bulleted list with four major points from the two analysis deliverable
     (a) There are 72,458 people retiring. 
     (b) The job title with the most amount of people retiring is Senior Engineer and the the job title with the least amount of people retiring is manager. See table below for breakdown of the number of people retiring by title that was generated using a query in Postgres. 
 
-![Retirement-Ready Employees by Title](Analysis Projects Folder/Pewlett-Hackard-Analysis-Folder/retirement_titles_table.PNG)
+![Retirement-Ready Employees by Title](Analysis_Projects_Folder/Pewlett-Hackard-Analysis-Folder/retirement_titles_table.PNG)
 
 (2) The Employees Eligible for the Mentorship Program
     (a) There are only 1,549 employees who were born in 1965 who are eligible for a mentorship program.
