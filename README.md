@@ -5,19 +5,19 @@ The purpose of this analysis is to determine the number of retiring employees by
 
 # Results: 
 
-(1) The Number of Retiring Employees by Title
+## The Number of Retiring Employees by Title
 
-    (a) There are 72,458 people retiring. 
+(1) There are 72,458 people retiring. 
 
-    (b) The job title with the most amount of people retiring is Senior Engineer and the the job title with the least amount of people retiring is manager. See table below for breakdown of the number of people retiring by title that was generated using a query in Postgres. 
+(2) The job title with the most amount of people retiring is Senior Engineer and the the job title with the least amount of people retiring is manager. See table below for breakdown of the number of people retiring by title that was generated using a query in Postgres. 
 
 ![Retirement-Ready Employees by Title](Analysis_Projects_Folder/Pewlett-Hackard-Analysis-Folder/retirement_titles_table.PNG)
 
-(2) The Employees Eligible for the Mentorship Program
+## The Employees Eligible for the Mentorship Program
 
-    (a) There are only 1,549 employees who were born in 1965 who are eligible for a mentorship program.
-    
-    (b) This about 2% of the retirement-ready employees at PH who are eligible for a mentorship program. 
+(1) There are only 1,549 employees who were born in 1965 who are eligible for a mentorship program.
+
+(2) This about 2% of the retirement-ready employees at PH who are eligible for a mentorship program. 
 
 # Summary: 
 
